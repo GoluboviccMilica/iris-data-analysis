@@ -35,4 +35,4 @@ This notebook shows clear distinctions between flower species using petal length
 
 ---
 
-*Created by Milica Golubović as part of her data analyst learning journey.* 😊
+*Created by Milica Golubović as part of her data analyst learning journey.*
